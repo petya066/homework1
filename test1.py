@@ -13,11 +13,15 @@ print("\n----------------------------------------\n")
 from lib1 import *
 a()
 <<<<<<< HEAD
+<<<<<<< HEAD
 b()
 c()
 <<<<<<< HEAD
 =======
 d()
+=======
+
+>>>>>>> development
 =======
 
 >>>>>>> development
