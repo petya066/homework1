@@ -1,5 +1,5 @@
 # Home work1
-from lib1 import *
+
 print("---------------------------------------\n")
 x = 5
 y = 7
