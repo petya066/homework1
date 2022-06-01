@@ -11,4 +11,3 @@ from lib1 import *
 b()
 c()
 g()
-a()
