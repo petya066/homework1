@@ -12,10 +12,14 @@ print(h + k)
 print("\n----------------------------------------\n")
 from lib1 import *
 a()
+<<<<<<< HEAD
 b()
 c()
 <<<<<<< HEAD
 =======
 d()
+=======
+
+>>>>>>> development
 print(d(c()))
 >>>>>>> development
